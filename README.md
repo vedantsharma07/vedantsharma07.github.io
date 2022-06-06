@@ -16,11 +16,10 @@ To associate with an organization, to fully utilize my knowledge, technical skil
 ## Experience
 
 ### Product Developer-II at American Bureau of Shipping (ABS)Since June 2018
-
-  -Primarily owned, developed, and supported multiple complex modules in Product ABS-Freedom.
-  -Involved in delivering all phases of the modules, from technical design, development, enhancement and warranty support.
-  -Experience in collaborating with SMEs to understand the business requirements.
-  -Working collaboratively in a team with fellow developers, sharing ideas to solve complex and challenging business problems.
+* Primarily owned, developed, and supported multiple complex modules in Product ABS-Freedom.
+* Involved in delivering all phases of the modules, from technical design, development, enhancement and warranty support.
+* Experience in collaborating with SMEs to understand the business requirements.
+* Working collaboratively in a team with fellow developers, sharing ideas to solve complex and challenging business problems.
 
 ---
 
