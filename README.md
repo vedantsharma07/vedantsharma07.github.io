@@ -1,6 +1,18 @@
-## Portfolio
+## Profile Summary
 
-To associate with an organization, to fully utilize my knowledge, technical skills and facilitating my contribution through thoughts and action to the organization’s vision.
+* Experience with programming, analysis, design, development implementation, quality assurance and applications support.
+
+* Extensive working knowledge of React JS, Redux, ES6, JavaScript, HTML5 and CSS3 with Web Development. 
+
+* Experience of working in Agile Methodology.
+
+* Experience in improving resiliency and performance of the platform.
+
+* Experience in creating and supporting RESTful web serivces using Java.
+
+* Experience in automating builds, testing, and deploying applications within a CI/CD framework.
+
+* Good communication, documentation and troubleshooting skills with ability to work in a dynamic environment.
 
 ---
 
@@ -23,4 +35,10 @@ To associate with an organization, to fully utilize my knowledge, technical skil
 
 ---
 
-## Achievements
+## Education
+
+### B. Tech. 
+#### CPI-8.65
+#### Computer Science and Engineering
+#### Walchand College of Engineering, Sangli, India 
+#### 2014-2018
