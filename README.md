@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+##Portfolio
 
-You can use the [editor on GitHub](https://github.com/vedantsharma07/vedantsharma07.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To associate with an organization, to fully utilize my knowledge, technical skills and facilitating my contribution through thoughts and action to the organization’s vision.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+##Skills
+###Proficient Skills:
+   React JS, Redux, JavaScript, ES6
+  
+###Familiar Skills:
+   Semantic UI React, MDBReact, HTML5, CSS3, Webpack, MongoDB, Oracle 12c, Node JS, Core Java, Jenkins, Git, JIRA, SVN, REST, Jax-Rs, Angular4, Confluence
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+##Experience
 
-# Header 1
-## Header 2
-### Header 3
+###Product Developer-II at American Bureau of Shipping (ABS)Since June 2018
 
-- Bulleted
-- List
+  -Primarily owned, developed, and supported multiple complex modules in Product ABS-Freedom.
+  -Involved in delivering all phases of the modules, from technical design, development, enhancement and warranty support.
+  -Experience in collaborating with SMEs to understand the business requirements.
+  -Working collaboratively in a team with fellow developers, sharing ideas to solve complex and challenging business problems.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vedantsharma07/vedantsharma07.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Achievements
